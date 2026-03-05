@@ -1,0 +1,17 @@
+fastapi==0.104.1
+uvicorn==0.24.0
+pygithub==1.59.0
+gitpython==3.1.40
+tree-sitter==0.20.0
+chromadb==0.4.16
+neo4j==5.17.0
+stripe==13.10.0
+celery==5.3.4
+redis==5.0.1
+sqlalchemy==2.0.23
+pydantic==2.5.0
+requests==2.31.0
+python-dotenv==1.0.0
+pytest==7.4.3
+black==23.11.0
+flake8==6.1.0
